@@ -13,7 +13,8 @@ struct ContentView: View {
     @State var textValue: String = ""
     //content View
    //changes from feature/test
-//changes from main    
+//changes from main
+//changes from feature/test2    
     var body: some View {
         NavigationView {
             VStack(spacing: 10) {
