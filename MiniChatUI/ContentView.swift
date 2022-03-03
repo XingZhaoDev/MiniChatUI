@@ -11,7 +11,7 @@ struct ContentView: View {
     
     @Environment(\.presentationMode) var presentationMode
     @State var textValue: String = ""
-    
+    //content View    
     var body: some View {
         NavigationView {
             VStack(spacing: 10) {
