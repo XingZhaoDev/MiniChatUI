@@ -11,10 +11,12 @@ struct ContentView: View {
     
     @Environment(\.presentationMode) var presentationMode
     @State var textValue: String = ""
+    
     //content View
    //changes from feature/test
 //changes from main
-//changes from feature/test2    
+//changes from feature/test2
+    // hotfix branch
     var body: some View {
         NavigationView {
             VStack(spacing: 10) {
