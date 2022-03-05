@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
+    // what is going on
     @Environment(\.presentationMode) var presentationMode
     @State var textValue: String = ""
     
